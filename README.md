@@ -9,5 +9,6 @@ Press start to start the game!
 
 ## How to
 
-Click the project link and enjoy!
+Click the [project link](https://ericzhou0815.github.io/JavaScript-game-catch-the-flower/) and enjoy!
 
+## Special credit to another group memeber: Bing Liang!
